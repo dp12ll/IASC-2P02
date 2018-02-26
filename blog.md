@@ -9,3 +9,9 @@ Ut lobortis venenatis dapibus. Etiam eget risus eget metus feugiat luctus. Cras 
 Nulla et dignissim lorem, vitae gravida quam. Aliquam ut quam ac ligula pulvinar sodales vel posuere ligula. Sed semper ut sapien at laoreet. Vestibulum sodales vestibulum augue, a finibus lectus. Donec iaculis nec est quis imperdiet. Maecenas vestibulum neque at felis malesuada auctor. Sed pretium placerat nisl, sed pharetra tellus malesuada at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus ornare placerat est, sed pharetra dui mattis eget. Praesent a urna odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam rutrum ligula at justo tincidunt, sed aliquet elit hendrerit. Aliquam sollicitudin sit amet ipsum id volutpat. Vivamus tempor metus vel dapibus faucibus. Sed ullamcorper turpis sagittis faucibus lacinia.
 
 Vestibulum ut lectus quis sem dapibus faucibus vitae sed nulla. Donec in aliquam nisl. Cras sodales nulla at metus posuere, non ornare ligula bibendum. Donec sapien libero, lacinia at velit vitae, accumsan rutrum arcu. Sed non mi porttitor, rhoncus ante in, varius sem. Praesent posuere interdum erat, dictum tincidunt sem lobortis et. Vestibulum eu erat ligula.
+
+
+[3d viz](d3/index.html)
+
+
+<iframe style="width: 1024 px; height 768 px;" src="http://dp12ll.github.io/iasc-2p02/d3/index.html"></iframe?
